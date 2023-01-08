@@ -4,7 +4,7 @@ module.exports = {
   DefaultPrefix: process.env.Prefix || "l!",
   Port: 1000,
   SupportServer: "https://discord.gg/R3QRprUXgC",
-  Token: process.env.Token || "MTA1Mzg5Njg2ODU5MTA0NjY5Nw.Gjpy-a.8c8DdomLPs6kwG-frzAe9TBSt8owb88g8oqXoo", 
+  Token: process.env.Token || "MTA1Mzg5Njg2ODU5MTA0NjY5Nw.GTXtRf.-2nAsO3UUIsIPVXqDj2CM1uUZnU15ubiZWhRgY", 
   ClientID: process.env.Discord_ClientID || "1053896868591046697",
   ClientSecret: process.env.Discord_ClientSecret || "IuPnWvqk6Y8hSVcY3iS2zCUCbJlbv2wj",
   Scopes: ["identify", "guilds", "applications.commands"],
